@@ -26,7 +26,7 @@ import { DinamicComponent } from './feature/dumbFeature/dinamic.component';
       <div #entry ></div>
       
       <div>DATE: {{ date | date: 'yMMMMd' | uppercase }}</div>
-      ROUTER OUTLET:
+      MARKO ROUTER OUTLET:
       <nav>
       <a
       routerLink='form'
