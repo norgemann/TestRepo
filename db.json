@@ -1,0 +1,13 @@
+{
+  "products": [
+      { "id": 1, "price": 760, "name": "Kapricoza" },
+      { "id": 2, "price": 890, "name": "Vulkano" },
+      { "id": 3, "price": 890, "name": "4 vrste sira" },
+      { "id": 4, "price": 1100, "name": "4 godisnja doba" },
+      { "id": 5, "price": 560, "name": "Margarita" }
+    ],
+  "menu": [
+      { "product_id": 3, "kolicina": 1 },
+      { "product_id": 2, "kolicina": 2 }
+  ]
+}
